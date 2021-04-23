@@ -2,6 +2,8 @@
 
 Following this [Tutorial](https://towardsdatascience.com/predict-any-cryptocurrency-applying-nlp-with-global-news-e938af6f7922)
 
+Also using [openblender.io](openblender.io)
+
 # Difference of Logs
 
 Using Difference of Logs can tell you percentage changes
